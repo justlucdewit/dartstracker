@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "AAEA,AAAA,IAAI,CAAA;EACA,UAAU,EAHI,KAAY;CAO7B;;AALD,AAEI,IAFA,CAEA,MAAM,CAAA;EACF,UAAU,EAAE,KAAK;CACpB",
+    "mappings": "AAEA,AAAA,IAAI,CAAA;EACA,UAAU,EAHI,KAAY;CAO7B",
     "sources": [
         "tracker.scss"
     ],
